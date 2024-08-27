@@ -126,3 +126,15 @@ button {
     background-color:#C6D984;
 
 }
+
+@media screen and (max-width:1300px){
+
+    .container {
+
+        margin-left: 150px;
+        width: 800px;
+        flex-wrap: wrap;
+
+    }
+
+}
